@@ -1,0 +1,4 @@
+define scalar function ZSF_COM99_01
+  with parameters
+    if_input: abap.char(10)
+  returns abap.char(10)

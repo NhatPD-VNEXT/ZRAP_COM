@@ -1,0 +1,2546 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZRAP_COM_99</ARBGB>
+    <MASTERLANG>J</MASTERLANG>
+    <STEXT>CloudPJ固有_メッセージクラス</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>項目 環境管理コード に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>項目 荷姿区分 に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>項目 操作部コード に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>項目 規格コード に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>項目 種類コード に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>項目 機構コード に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>項目 出荷時注意コード に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>項目 NECA分類コード に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>項目 在庫区分 に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>項目 計画担当者コード に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>項目 生産場所コード に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>項目 指図検査区分コード に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>項目 製造ライン に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>項目 規定保管場所（サプライヤ） に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>項目 帳票出力コード（注文書・納品書） に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>項目 帳票出力コード（部品出庫一覧） に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>項目 帳票出力コード（部品キットラベル） に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>項目 帳票出力コード（オーダキットラベル） に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>項目 例外出庫仕訳区分 に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>受注開始日より前に受注登録はできません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>受注停止日を過ぎています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>大口数量より大きい受注数量は登録できません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>構成品目 &amp;1 の構成品目数量 &amp;2 をソート文字列に入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>項目 市場 に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>項目 原産国 に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>項目 品目リビジョン（マイナー） に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>項目 検査区分コード に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>アップロードされたファイルがありません。保存できません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>生産場所コード &amp;1 はBPに登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>製造ライン &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>実行されたメソッド &amp;1 は許可されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>入力依頼が無効です</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>伝票の転記中に予期せぬエラーが発生しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>プロセスのすべてが完了しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>プラントを割り当てられません 同じ材料と代替 BOM を使用</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>保存できません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>購買発注 &amp;1 明細 &amp;2 納入日程行 &amp;3 が存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>ジョブ &amp; &amp; が開始されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>&amp;1 件の購買発注明細が見つかりました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>&amp;1 件の販売伝票明細が該当しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>受注明細更新BOインターフェースのリターンメッセージをすべて出力</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>購買発注明細 &amp;1 件（成功 &amp;2 件 失敗 &amp;3 件 スキップ &amp;4 件）</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>ジョブが終了しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>&amp;1 のドラフトが既に存在します。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>計画手配 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>品目 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>046</MSGNR>
+     <TEXT>プラント &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>047</MSGNR>
+     <TEXT>品目はプラント &amp;1 に登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>048</MSGNR>
+     <TEXT>保管場所 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>049</MSGNR>
+     <TEXT>製造バージョン &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>050</MSGNR>
+     <TEXT>製造指図 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>051</MSGNR>
+     <TEXT>品目調達タイプ: &amp;1 のみがサポートされています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>052</MSGNR>
+     <TEXT>プラント &amp;2 の品目 &amp;1 の製造バージョンが見つかりません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>053</MSGNR>
+     <TEXT>最遅有効終了日: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>054</MSGNR>
+     <TEXT>有効終了日付が有効開始日付よりも過去の日付です</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>055</MSGNR>
+     <TEXT>重複するキー値 &amp;1 が見つかりました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>056</MSGNR>
+     <TEXT>仕入先 &amp;1 が未登録です</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>057</MSGNR>
+     <TEXT>有効な値範囲を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>058</MSGNR>
+     <TEXT>出力対象が選択されていません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>059</MSGNR>
+     <TEXT>重複するエントリが見つかりました。重複レコードのため、インポートに失敗しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>060</MSGNR>
+     <TEXT>品目に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>061</MSGNR>
+     <TEXT>プラントに有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>062</MSGNR>
+     <TEXT>有効開始日に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>063</MSGNR>
+     <TEXT>品目リビジョン（マイナー）に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>064</MSGNR>
+     <TEXT>ユーザーID &amp;1 は見つかりませんでした</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>065</MSGNR>
+     <TEXT>注文ステータスを確認してください 変更はできません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>066</MSGNR>
+     <TEXT>アップロード失敗: ファイルにデータがありません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>067</MSGNR>
+     <TEXT>プランドオーダー &amp;1 が作成されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>068</MSGNR>
+     <TEXT>製造オーダー &amp;1 が作成されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>069</MSGNR>
+     <TEXT>プランドオーダー &amp;1 が更新されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>070</MSGNR>
+     <TEXT>製造オーダー &amp;1 が正常に更新されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>071</MSGNR>
+     <TEXT>異なる &amp;1 が複数存在しています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>072</MSGNR>
+     <TEXT>購買依頼の更新に失敗しました　&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>073</MSGNR>
+     <TEXT>計画手配の更新に失敗しました　&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>074</MSGNR>
+     <TEXT>&amp;1　送信 &amp;2件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>075</MSGNR>
+     <TEXT>出力対象が選択されていません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>076</MSGNR>
+     <TEXT>インポートされた行: &amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>077</MSGNR>
+     <TEXT>選択したデータについて、異なる内示年月が存在しないこと。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>078</MSGNR>
+     <TEXT>作業工程管理情報送信 &amp;1件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>079</MSGNR>
+     <TEXT>検索条件に該当するデータがありません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>080</MSGNR>
+     <TEXT>データ出力中にエラーが発生しました エラー内容：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>081</MSGNR>
+     <TEXT>注文数量に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>082</MSGNR>
+     <TEXT>注文単価に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>083</MSGNR>
+     <TEXT>発注タイプ &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>084</MSGNR>
+     <TEXT>購買伝票番号 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>085</MSGNR>
+     <TEXT>サプライヤ &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>086</MSGNR>
+     <TEXT>プラント &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>087</MSGNR>
+     <TEXT>支払条件 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>088</MSGNR>
+     <TEXT>通貨 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>089</MSGNR>
+     <TEXT>請求元（取引先機能） &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>090</MSGNR>
+     <TEXT>購買担当者（取引先機能） &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>091</MSGNR>
+     <TEXT>購買組織 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>092</MSGNR>
+     <TEXT>購買グループ &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>093</MSGNR>
+     <TEXT>会社コード &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>094</MSGNR>
+     <TEXT>インコタームズ &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>095</MSGNR>
+     <TEXT>A（勘定設定カテゴリ） &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>096</MSGNR>
+     <TEXT>I（明細カテゴリ） &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>097</MSGNR>
+     <TEXT>品目 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>098</MSGNR>
+     <TEXT>Oun（発注単位） &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>099</MSGNR>
+     <TEXT>保管場所 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>100</MSGNR>
+     <TEXT>購買情報 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>101</MSGNR>
+     <TEXT>出庫保管場所 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>102</MSGNR>
+     <TEXT>構成品目 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>103</MSGNR>
+     <TEXT>出荷指示 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>104</MSGNR>
+     <TEXT>税コード &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>105</MSGNR>
+     <TEXT>UoM（条件単位） &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>106</MSGNR>
+     <TEXT>G/L勘定 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>107</MSGNR>
+     <TEXT>原価センタ &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>108</MSGNR>
+     <TEXT>国 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>109</MSGNR>
+     <TEXT>仕入先 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>110</MSGNR>
+     <TEXT>確認管理 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>111</MSGNR>
+     <TEXT>発注理由 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>112</MSGNR>
+     <TEXT>原産国 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>113</MSGNR>
+     <TEXT>種類コード &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>114</MSGNR>
+     <TEXT>機構コード &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>115</MSGNR>
+     <TEXT>品目リビジョン（マイナー） &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>116</MSGNR>
+     <TEXT>検査区分コード &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>117</MSGNR>
+     <TEXT>例外出庫仕訳区分 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>118</MSGNR>
+     <TEXT>一覧出力処理が正常に終了しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>119</MSGNR>
+     <TEXT>単票出力処理が正常に終了しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>120</MSGNR>
+     <TEXT>&amp;1&amp;2&amp;3&amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>121</MSGNR>
+     <TEXT>購買発注の更新に失敗しました　&amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>122</MSGNR>
+     <TEXT>&amp;1　送信件数 &amp;2 件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>123</MSGNR>
+     <TEXT>初回印刷の複数明細伝票が選択されています &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>124</MSGNR>
+     <TEXT>帳票出力コード(注文書･納品書)の言語とフォームの言語が異なります　&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>125</MSGNR>
+     <TEXT>登録に成功しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>126</MSGNR>
+     <TEXT>伝票更新でエラーが発生しました 伝票番号：&amp;1 明細番号：&amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>127</MSGNR>
+     <TEXT>更新に成功しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>128</MSGNR>
+     <TEXT>削除に成功しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>129</MSGNR>
+     <TEXT>項目 要求者 に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>130</MSGNR>
+     <TEXT>項目 仕入先（外注先） に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>131</MSGNR>
+     <TEXT>購買発注の更新に失敗しました　&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>132</MSGNR>
+     <TEXT>&amp;1　送信件数 &amp;2件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>133</MSGNR>
+     <TEXT>出力処理が正常に終了しました まとめ出荷ID &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>134</MSGNR>
+     <TEXT>外部システム呼出時にエラーが発生しました まとめ出荷ID &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>135</MSGNR>
+     <TEXT>出力処理が正常に終了しました 受注先 &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>136</MSGNR>
+     <TEXT>外部システム呼出時にエラーが発生しました 受注先 &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>137</MSGNR>
+     <TEXT>廃棄理由[&amp;1]が設定されている為、勘定[&amp;2]を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>138</MSGNR>
+     <TEXT>移動理由 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>139</MSGNR>
+     <TEXT>処理無し</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>140</MSGNR>
+     <TEXT>エントリ &amp;1 は &amp;2 に存在しません (エントリを確認してください)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>141</MSGNR>
+     <TEXT>ファイルレイアウトが正しくありません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>142</MSGNR>
+     <TEXT>日付が正しくありません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>143</MSGNR>
+     <TEXT>「&amp;1」は必須です。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>144</MSGNR>
+     <TEXT>出力対象外の帳票出力コードを持つサプライヤが含まれています &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>145</MSGNR>
+     <TEXT>廃棄処理対象勘定データの取得に失敗しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>146</MSGNR>
+     <TEXT>購買発注 &amp;1 は既に作成されています。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>147</MSGNR>
+     <TEXT>日付が正しくありません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>148</MSGNR>
+     <TEXT>対象データが存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>149</MSGNR>
+     <TEXT>登録に成功しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>150</MSGNR>
+     <TEXT>明細追加に成功しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>151</MSGNR>
+     <TEXT>更新に成功しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>152</MSGNR>
+     <TEXT>削除に成功しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>153</MSGNR>
+     <TEXT>&amp;1 &amp;2 仕入先（外注先）の提案に失敗しました &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>154</MSGNR>
+     <TEXT>ヘッダのみ作成済</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>155</MSGNR>
+     <TEXT>重複キー</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>156</MSGNR>
+     <TEXT>&amp;1　送信件数 &amp;2件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>157</MSGNR>
+     <TEXT>項目 荷役タイプ に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>158</MSGNR>
+     <TEXT>ID &amp;1 付作業区が見つかりませんでした</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>159</MSGNR>
+     <TEXT>項目 流程カードNo に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>160</MSGNR>
+     <TEXT>作業区 &amp;1 は存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>161</MSGNR>
+     <TEXT>負荷ライン(Work)にはプラント &amp;1  の作業区を選択してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>162</MSGNR>
+     <TEXT>項目 発注理由 に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>163</MSGNR>
+     <TEXT>購買依頼伝票番号： &amp;1 明細番号 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>164</MSGNR>
+     <TEXT>MRPエリア &amp;1 が定義されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>165</MSGNR>
+     <TEXT>対象の&amp;1が存在しません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>166</MSGNR>
+     <TEXT>対象の伝票紐付情報が存在しません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>167</MSGNR>
+     <TEXT>&amp;1：&amp;2 の出荷先プラントを決定できません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>168</MSGNR>
+     <TEXT>&amp;1：&amp;2 の更新に失敗しました。 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>170</MSGNR>
+     <TEXT>受注明細の更新に失敗しました &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>171</MSGNR>
+     <TEXT>品名パラメータ設定データの取得に失敗しました &amp;1 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>172</MSGNR>
+     <TEXT>税コードマスタデータの取得に失敗しました　&amp;1　&amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>173</MSGNR>
+     <TEXT>国コード &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>174</MSGNR>
+     <TEXT>税コード &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>175</MSGNR>
+     <TEXT>税タイプ &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>176</MSGNR>
+     <TEXT>まとめ出荷件数 &amp;1 　まとめ出荷更新件数 &amp;2 まとめ出荷未更新件数 &amp;3 まとめ出荷更新エラー件数 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>177</MSGNR>
+     <TEXT>出庫済ではない受注明細が存在します　&amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>178</MSGNR>
+     <TEXT>請求済ではない受注明細が存在します　&amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>179</MSGNR>
+     <TEXT>成功しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>180</MSGNR>
+     <TEXT>確定区分に無効な値が含まれています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>181</MSGNR>
+     <TEXT>勘定コード &amp;1 (会社コード &amp;2) はこの業務で許可されていません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>182</MSGNR>
+     <TEXT>伝票タイプ &amp;1 では、複数明細取引が許可されていません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>183</MSGNR>
+     <TEXT>明細カテゴリを入力してください。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>184</MSGNR>
+     <TEXT>工程外注は明細更新のみサポートしています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>185</MSGNR>
+     <TEXT>Batch出力シリアルNoが入力されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>186</MSGNR>
+     <TEXT>対象の外注保管場所が存在しません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>187</MSGNR>
+     <TEXT>削除対象の在庫転送オーダーが存在しません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>188</MSGNR>
+     <TEXT>ジョブの終了が確認できません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>189</MSGNR>
+     <TEXT>出力処理が終了しました Batch出力シリアルNo. &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>190</MSGNR>
+     <TEXT>品名パラメータ設定データの取得に失敗しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>191</MSGNR>
+     <TEXT>購買発注伝票: &amp;1 &amp;2 の削除に失敗しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>192</MSGNR>
+     <TEXT>品目：&amp;1 プラント：&amp;2 保管場所：&amp;3 所要日付：&amp;4 エラーが発生しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>193</MSGNR>
+     <TEXT>ジョブの終了が確認できません Batch出力シリアルNo. &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>194</MSGNR>
+     <TEXT>対象データが存在しません 最上位From：&amp;1 From：&amp;2 To：&amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>195</MSGNR>
+     <TEXT>対象データが削除できません 最上位From：&amp;1 From：&amp;2 To：&amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>200</MSGNR>
+     <TEXT>プラント &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>201</MSGNR>
+     <TEXT>保管場所 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>202</MSGNR>
+     <TEXT>出荷先と出荷元プラントに関連がありません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>203</MSGNR>
+     <TEXT>&amp;1 は定義されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>204</MSGNR>
+     <TEXT>&amp;1 を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>205</MSGNR>
+     <TEXT>&amp;1 が1種類ではありません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>206</MSGNR>
+     <TEXT>&amp;1 の取得に失敗しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>207</MSGNR>
+     <TEXT>&amp;1 の登録に失敗しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>208</MSGNR>
+     <TEXT>&amp;1 の更新に失敗しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>209</MSGNR>
+     <TEXT>&amp;1 の削除に失敗しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>250</MSGNR>
+     <TEXT>対象件数： &amp;1 件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>500</MSGNR>
+     <TEXT>計画手配番号 &amp;1 正常に更新されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>501</MSGNR>
+     <TEXT>処理対象データがありません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>502</MSGNR>
+     <TEXT>処理総件数:&amp;1　正常処理件数:&amp;2　エラー件数:&amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>503</MSGNR>
+     <TEXT>購買依頼番号:&amp;1 明細番号:&amp;2 正常に更新されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>504</MSGNR>
+     <TEXT>製造指図番号 &amp;1 正常に更新されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>505</MSGNR>
+     <TEXT>データ更新中にエラーが発生しました エラー内容：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>506</MSGNR>
+     <TEXT>受注伝票番号 &amp;1 正常に更新されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>507</MSGNR>
+     <TEXT>データ取込中にエラーが発生しました エラー内容：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>508</MSGNR>
+     <TEXT>ファイルが存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>509</MSGNR>
+     <TEXT>ファイルリストの取得に失敗しました。 &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>510</MSGNR>
+     <TEXT>ファイル： &amp;1 の読込を実行します。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>511</MSGNR>
+     <TEXT>有効期間が登録済です。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>512</MSGNR>
+     <TEXT>更新対象のレコードが存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>513</MSGNR>
+     <TEXT>ファイル： &amp;1 の取込に失敗しました。 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>514</MSGNR>
+     <TEXT>ファイル： &amp;1 の取込に成功しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>515</MSGNR>
+     <TEXT>購買情報：&amp;1 条件レコード：&amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>516</MSGNR>
+     <TEXT>処理件数 &amp;1 件 正常件数 &amp;2 警告件数 &amp;3 エラー件数 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>517</MSGNR>
+     <TEXT>条件レコード &amp;1 が作成されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>518</MSGNR>
+     <TEXT>不正な日付が入力されています。( &amp;1 )</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>519</MSGNR>
+     <TEXT>&amp;1：不正な日付が入力されています。( &amp;2 )</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>520</MSGNR>
+     <TEXT>&amp;1：&amp;2の更新に失敗しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>521</MSGNR>
+     <TEXT>購買依頼番号:&amp;1 明細番号:&amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>522</MSGNR>
+     <TEXT>受注伝票番号:&amp;1 明細番号:&amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>523</MSGNR>
+     <TEXT>&amp;1 &amp;2&amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>524</MSGNR>
+     <TEXT>受注伝票番号:&amp;1 明細番号:&amp;2 更新対象のレコードが存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>525</MSGNR>
+     <TEXT>受注伝票番号:&amp;1 明細番号:&amp;2 値&amp;3は有効な日付/時刻表現ではありません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>526</MSGNR>
+     <TEXT>購買依頼番号:&amp;1 明細番号:&amp;2 更新対象のレコードが存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>527</MSGNR>
+     <TEXT>購買依頼番号 &amp;1 が登録されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>528</MSGNR>
+     <TEXT>購買依頼番号:&amp;1 明細番号:&amp;2 更新対象のレコードが存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>529</MSGNR>
+     <TEXT>伝票タイプ &amp;1 は使用できません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>530</MSGNR>
+     <TEXT>購買発注伝票番号： &amp;1 明細番号 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>531</MSGNR>
+     <TEXT>処理対象件数　&amp;1件、成功件数　&amp;2件、失敗件数　&amp;3件、SKIP件数　&amp;4件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>532</MSGNR>
+     <TEXT>購買依頼伝票番号： &amp;1 明細番号 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>533</MSGNR>
+     <TEXT>受注伝票番号：&amp;1 明細番号：&amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>534</MSGNR>
+     <TEXT>受注明細 &amp;1 件（成功 &amp;2 件 失敗 &amp;3 件 スキップ &amp;4 件）</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>535</MSGNR>
+     <TEXT>購買発注伝票：&amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>536</MSGNR>
+     <TEXT>購買発注伝票 &amp;1 が変更されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>537</MSGNR>
+     <TEXT>処理件数 &amp;1 件正常件数 &amp;2 エラー件数 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>538</MSGNR>
+     <TEXT>購買発注番号:&amp;1 明細番号:&amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>539</MSGNR>
+     <TEXT>受注伝票番号： &amp;1 明細番号 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>540</MSGNR>
+     <TEXT>削除対象件数　&amp;1件、成功件数　&amp;2件、警告件数　&amp;3件、失敗件数　&amp;4件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>541</MSGNR>
+     <TEXT>登録対象件数　&amp;1件、成功件数　&amp;2件、警告件数　&amp;3件、失敗件数　&amp;4件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>542</MSGNR>
+     <TEXT>リクエストボディが存在しません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>543</MSGNR>
+     <TEXT>購買発注伝票番号： &amp;1 明細番号 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>544</MSGNR>
+     <TEXT>更新対象件数　&amp;1件、成功件数　&amp;2件、警告件数　&amp;3件、失敗件数　&amp;4件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>545</MSGNR>
+     <TEXT>購買発注伝票番号： &amp;1 明細番号 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>546</MSGNR>
+     <TEXT>必須項目&amp;1に入力してください。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>547</MSGNR>
+     <TEXT>&quot;開始&quot; 日付 (&amp;1) は &quot;終了&quot; 日付 (&amp;2) よりも前の日付にしてください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>548</MSGNR>
+     <TEXT>品目 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>549</MSGNR>
+     <TEXT>伝票 &amp;1 が会社コード &amp;2 に転記されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>550</MSGNR>
+     <TEXT>重複するキー値 &amp;1 / &amp;2 が見つかりました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>551</MSGNR>
+     <TEXT>&amp;1&amp;2　送信 &amp;3件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>552</MSGNR>
+     <TEXT>会社コード &amp;1 を転記する権限がありません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>553</MSGNR>
+     <TEXT>出庫日 &amp;1 指定で出荷指示を実行します</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>554</MSGNR>
+     <TEXT>&amp;1 の起動に成功</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>555</MSGNR>
+     <TEXT>最少発注数量より少ない受注数量は登録できません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>556</MSGNR>
+     <TEXT>処理ステータスが”未紐付/未処理”以外の行が選択されています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>557</MSGNR>
+     <TEXT>処理ステータスが”締め処理済”以外の行が選択されています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>558</MSGNR>
+     <TEXT>受注伝票明細 &amp;1 件（成功 &amp;2 件 失敗 &amp;3 件 スキップ &amp;4 件）</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>559</MSGNR>
+     <TEXT>購買発注明細 &amp;1 件（成功 &amp;2 件 失敗 &amp;3 件 スキップ &amp;4 件）</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>560</MSGNR>
+     <TEXT>受注伝票番号：&amp;1 明細番号：&amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>561</MSGNR>
+     <TEXT>購買発注伝票番号：&amp;1 明細番号：&amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>562</MSGNR>
+     <TEXT>税調整締め処理データを保存しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>563</MSGNR>
+     <TEXT>税調整締め処理データを削除しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>564</MSGNR>
+     <TEXT>&amp;1&amp;2&amp;3&amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>565</MSGNR>
+     <TEXT>登録に成功しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>566</MSGNR>
+     <TEXT>更新に成功しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>567</MSGNR>
+     <TEXT>同じ識別IDが既に存在します</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>568</MSGNR>
+     <TEXT>税調整済のデータが選択されています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>569</MSGNR>
+     <TEXT>締め処理済のデータが選択されています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>570</MSGNR>
+     <TEXT>伝票 &amp;1 が会社コード &amp;2 に転記されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>571</MSGNR>
+     <TEXT>伝票 &amp;1 が会社コード &amp;2 に転記されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>572</MSGNR>
+     <TEXT>処理ステータスが”締め処理済”以外の行が選択されています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>573</MSGNR>
+     <TEXT>条件に合致するデータがありません &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>574</MSGNR>
+     <TEXT>出力処理が正常に終了しました &amp;1 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>575</MSGNR>
+     <TEXT>外部システム呼出時にエラーが発生しました &amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>576</MSGNR>
+     <TEXT>条件に合致するデータがありません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>577</MSGNR>
+     <TEXT>購買発注伝票番号： &amp;1 明細番号 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>578</MSGNR>
+     <TEXT>伝票タイプ &amp;1 は使用できません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>579</MSGNR>
+     <TEXT>購買発注番号:&amp;1 明細番号:&amp;2 更新対象のレコードが存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>580</MSGNR>
+     <TEXT>&amp;1 の削除に失敗しました &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>581</MSGNR>
+     <TEXT>&amp;1 の登録に失敗しました &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>582</MSGNR>
+     <TEXT>&amp;1 キーが重複しています &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>583</MSGNR>
+     <TEXT>&amp;1 が存在しません &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>584</MSGNR>
+     <TEXT>購買発注番号 &amp;1 で登録されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>585</MSGNR>
+     <TEXT>購買発注番号 &amp;1 が変更されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>586</MSGNR>
+     <TEXT>&amp;1 伝票の更新に失敗しました &amp;2 エラー内容:&amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>587</MSGNR>
+     <TEXT>品目の有効日付の範囲が重なっています &amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>588</MSGNR>
+     <TEXT>計画手配:&amp;1 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>589</MSGNR>
+     <TEXT>登録 処理件数:&amp;1件 正常件数:&amp;2件 警告件数:&amp;3件 エラー件数:&amp;4件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>590</MSGNR>
+     <TEXT>更新 処理件数:&amp;1件 正常件数:&amp;2件 警告件数:&amp;3件 エラー件数:&amp;4件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>591</MSGNR>
+     <TEXT>伝票紐付け(一覧)テーブル の削除に失敗しました &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>592</MSGNR>
+     <TEXT>伝票紐付け(一覧)テーブル の登録に失敗しました &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>593</MSGNR>
+     <TEXT>受注停止日を過ぎているので登録できません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>594</MSGNR>
+     <TEXT>大口数量より大きい受注数量で登録されています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>595</MSGNR>
+     <TEXT>最小発注数量より少ない受注数量で登録されています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>596</MSGNR>
+     <TEXT>選択したレコードを処理対象外と設定しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>597</MSGNR>
+     <TEXT>リカバリ実行に失敗したレコードがあります</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>598</MSGNR>
+     <TEXT>リカバリ実行に成功しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>599</MSGNR>
+     <TEXT>購買情報が未登録です</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>600</MSGNR>
+     <TEXT>購買発注が登録済です</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>601</MSGNR>
+     <TEXT>購買発注の取得に失敗しました ジョブログを確認してください。購買依頼からの購買発注自動登録（製造指図リリース連携） 購買依頼：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>602</MSGNR>
+     <TEXT>受注番号: &amp;1 明細番号: &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>603</MSGNR>
+     <TEXT>処理件数 &amp;1 件 正常件数 &amp;2 警告件数 &amp;3 エラー件数 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>604</MSGNR>
+     <TEXT>まとめ出荷ステータス　出庫済更新 &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>605</MSGNR>
+     <TEXT>参照元の購買発注番号:&amp;1 明細番号:&amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>606</MSGNR>
+     <TEXT>更新元の購買発注番号:&amp;1 明細番号:&amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>607</MSGNR>
+     <TEXT>会計伝票: &amp;1 会社コード: &amp;2 会計年度: &amp;3 の更新に失敗しました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>608</MSGNR>
+     <TEXT>処理件数 &amp;1、正常件数 &amp;2、警告件数 &amp;3、エラー件数 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>609</MSGNR>
+     <TEXT>製造指図： &amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>610</MSGNR>
+     <TEXT>印刷後の更新処理にエラーが含まれるため、再印刷してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>611</MSGNR>
+     <TEXT>品目 &amp;1 プラント &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>612</MSGNR>
+     <TEXT>支払方法が設定されていない仕入先があります</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>613</MSGNR>
+     <TEXT>税調整不要</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>614</MSGNR>
+     <TEXT>支払方法が設定されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>615</MSGNR>
+     <TEXT>単位 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>616</MSGNR>
+     <TEXT>購買依頼からの購買発注自動登録（製造指図リリース連携） 購買依頼：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>617</MSGNR>
+     <TEXT>まとめ出荷に紐付けされている受注のため変更はできません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>618</MSGNR>
+     <TEXT>要求者 &amp;1 は登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>619</MSGNR>
+     <TEXT>請求伝票 &amp;1 は明細が複数存在しています。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>620</MSGNR>
+     <TEXT>回答納期に非稼働日が入力されています</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>621</MSGNR>
+     <TEXT>出荷伝票番号： &amp;1 明細番号 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>622</MSGNR>
+     <TEXT>仕入先 &amp;1 は購買組織 &amp;2 によってまだ登録されていません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>623</MSGNR>
+     <TEXT>帳票出力コードの設定がオンライン対象ではありません &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>624</MSGNR>
+     <TEXT>原価センタ &amp;1 は無効です</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>625</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>626</MSGNR>
+     <TEXT>振替対象の伝票がありません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>627</MSGNR>
+     <TEXT>項目 Factory_NSA_Pre-SAP に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>628</MSGNR>
+     <TEXT>項目 負荷ライン( Work / Plant ) に有効な値を入力してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>629</MSGNR>
+     <TEXT>計画手配：&amp;1 は存在しません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>630</MSGNR>
+     <TEXT>振替取消対象の伝票がありません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>631</MSGNR>
+     <TEXT>【手運用リカバリー対象】営業所の取得に失敗しました。得意先の販売エリア設定を確認してください。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>632</MSGNR>
+     <TEXT>【自動リカバリー】未更新の振替済 振替元伝票を検知しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>633</MSGNR>
+     <TEXT>【自動リカバリー】未更新の振替取消済 振替元伝票を検知しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>634</MSGNR>
+     <TEXT>【自動リカバリー】買戻し出荷 未振替伝票を検知しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>635</MSGNR>
+     <TEXT>取消対象ではない伝票が取消されています。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>636</MSGNR>
+     <TEXT>振替の登録に成功しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>637</MSGNR>
+     <TEXT>【手運用リカバリー対象】振替の登録に失敗しました。エラー内容を確認してください。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>638</MSGNR>
+     <TEXT>【手運用リカバリー対象】振替の登録に失敗しました。 振替先会社コード：&amp;1　エラー内容を確認してください。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>639</MSGNR>
+     <TEXT>【自動リカバリー対象】振替元の更新に失敗しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>640</MSGNR>
+     <TEXT>振替の取消に成功しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>641</MSGNR>
+     <TEXT>【自動リカバリー対象】振替の取消に失敗しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>642</MSGNR>
+     <TEXT>振替登録で異常発生。関連の振替登録を中止します。 振替先会社コード：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>643</MSGNR>
+     <TEXT>振替元の更新を行います。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>644</MSGNR>
+     <TEXT>振替の登録を行います。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>645</MSGNR>
+     <TEXT>次回実行時に再度登録を実施します。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>646</MSGNR>
+     <TEXT>次回実行時に再度更新を実施します。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>647</MSGNR>
+     <TEXT>次回実行時に再度反対仕訳を実施します。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>648</MSGNR>
+     <TEXT>種別：&amp;1 振替元：&amp;2 会社コード：&amp;3 会計年度：&amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>649</MSGNR>
+     <TEXT>種別：&amp;1 振替先：&amp;2 会社コード：&amp;3 会計年度：&amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>650</MSGNR>
+     <TEXT>得意先：&amp;1 販売組織：&amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>651</MSGNR>
+     <TEXT>振替伝票登録 処理対象件数 &amp;1件、成功件数 &amp;2件、失敗件数 &amp;3件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>652</MSGNR>
+     <TEXT>振替元伝票更新 処理対象件数 &amp;1件、成功件数 &amp;2件、失敗件数 &amp;3件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>653</MSGNR>
+     <TEXT>振替伝票取消 処理対象件数 &amp;1件、成功件数 &amp;2件、失敗件数 &amp;3件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>654</MSGNR>
+     <TEXT>振替元伝票更新(取消) 処理対象件数 &amp;1件、成功件数 &amp;2件、失敗件数 &amp;3件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>655</MSGNR>
+     <TEXT>異常取消伝票検知 対象件数 &amp;1件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>656</MSGNR>
+     <TEXT>異常伝票取消伝票検知 対象件数 &amp;1件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>657</MSGNR>
+     <TEXT>取消対象ではない &amp;1 が取消されています。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>658</MSGNR>
+     <TEXT>振替伝票更新 処理対象件数 &amp;1件、成功件数 &amp;2件、失敗件数 &amp;3件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>659</MSGNR>
+     <TEXT>貸借対照表 が送信されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>660</MSGNR>
+     <TEXT>損益計算書 が送信されました</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>661</MSGNR>
+     <TEXT>受注伝票番号-明細番号　&amp;1　出荷伝票番号-明細番号　&amp;2　の出荷伝票の取消に成功しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>662</MSGNR>
+     <TEXT>出荷伝票の取消に失敗しました。受注伝票： &amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>663</MSGNR>
+     <TEXT>すべての出荷伝票が既に取り消されていたため、まとめ出荷のステータスを「2：作成中（紐付済）」に戻します。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>664</MSGNR>
+     <TEXT>受注伝票番号 &amp;1 明細番号 &amp;2 まとめ出荷ID &amp;3 の原産国がZWもしくは空欄ですが印刷しますか？</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>665</MSGNR>
+     <TEXT>受注伝票番号 &amp;1 明細番号 &amp;2 まとめ出荷ID &amp;3 の評価額が0ですが印刷しますか？</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>666</MSGNR>
+     <TEXT>受注伝票番号 &amp;1 明細番号 &amp;2 まとめ出荷ID &amp;3 の &amp;4 が空欄ですが印刷しますか？</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>667</MSGNR>
+     <TEXT>カートンNo. &amp;1 受注伝票番号 &amp;2 明細番号 &amp;3 まとめ出荷ID &amp;4 の単位重量が0ですが印刷しますか？</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>668</MSGNR>
+     <TEXT>出力処理が正常に終了しました &amp;1 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>669</MSGNR>
+     <TEXT>外部システム呼出時にエラーが発生しました &amp;1 &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>670</MSGNR>
+     <TEXT>出力対象が選択されていません。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>671</MSGNR>
+     <TEXT>条件に合致するデータがありません &amp;1 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>672</MSGNR>
+     <TEXT>計画手配 &amp;1 は最新ではありません。最新のイベントログを選択して再実行してください。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>673</MSGNR>
+     <TEXT>会社間受発注の価格が一致していません。受注伝票番号-明細番号　&amp;1　発注伝票番号-明細番号　&amp;2　</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>674</MSGNR>
+     <TEXT>製造指図 &amp;1 購買発注 &amp;2 は最新ではありません。製造指図／購買発注対応キー &amp;3 を使用し、最新のイベントログを選択して再実行してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>675</MSGNR>
+     <TEXT>出荷伝票が追加登録されました。受注伝票： &amp;1　出荷伝票：&amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>676</MSGNR>
+     <TEXT>出荷伝票が取消されました。受注伝票： &amp;1　出荷伝票：&amp;2　 3PL出荷指示IF：&amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>677</MSGNR>
+     <TEXT>処理対象データがありません &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>678</MSGNR>
+     <TEXT>指定した番号は処理対象として有効ではありません &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>679</MSGNR>
+     <TEXT>指定した番号は処理対象として有効ではありません（発注起点ではない） &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>680</MSGNR>
+     <TEXT>紐づけ対象（To伝票）が設定されていません。From購買発注伝票（&amp;1）</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>681</MSGNR>
+     <TEXT>紐づけ対象はすでに登録されています。From伝票（&amp;1）　To伝票（&amp;2）</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>682</MSGNR>
+     <TEXT>製造指図： &amp;1 のステータスを確認してください</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>683</MSGNR>
+     <TEXT>処理件数 &amp;1件 正常件数 &amp;2件 警告件数 &amp;3件 エラー件数 &amp;4件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>684</MSGNR>
+     <TEXT>不明なエンティティです</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>685</MSGNR>
+     <TEXT>出荷ブロック解除処理 処理対象件数　&amp;1件、成功件数　&amp;2件、失敗件数　&amp;3件、SKIP件数　&amp;4件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>686</MSGNR>
+     <TEXT>出荷ブロック設定処理 処理対象件数　&amp;1件、成功件数　&amp;2件、失敗件数　&amp;3件、SKIP件数　&amp;4件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>687</MSGNR>
+     <TEXT>カートンNo. &amp;1 &amp;2 まとめ出荷ID &amp;3 の &amp;4 が空欄ですが印刷しますか？</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>688</MSGNR>
+     <TEXT>受注伝票の更新に失敗しました。受注伝票： &amp;1 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>689</MSGNR>
+     <TEXT>受注伝票の更新に失敗しました。受注伝票： &amp;1 受注伝票： &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>690</MSGNR>
+     <TEXT>発注伝票の更新に失敗しました。受注伝票： &amp;1 発注伝票： &amp;2 &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>691</MSGNR>
+     <TEXT>出荷伝票の登録に失敗しました。受注伝票： &amp;1 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>692</MSGNR>
+     <TEXT>購買発注伝票番号：&amp;1 明細番号：&amp;2 購買発注量単位：&amp;3 購買情報マスタ設定単位：&amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>693</MSGNR>
+     <TEXT>出庫期間 &amp;1 ~ &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>694</MSGNR>
+     <TEXT>会社間取引 &amp;1 件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>695</MSGNR>
+     <TEXT>出荷終了日 &amp;1 （ &amp;2 から &amp;3 日後 ）</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>696</MSGNR>
+     <TEXT>&amp;1 の起動をスキップします</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>697</MSGNR>
+     <TEXT>入荷伝票登録対象 &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>698</MSGNR>
+     <TEXT>【自動リカバリー】アドオンテーブル未登録の振替済情報を検知しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>699</MSGNR>
+     <TEXT>アドオンテーブルの登録を行います。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>700</MSGNR>
+     <TEXT>【自動リカバリー対象】アドオンテーブルの登録に失敗しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>701</MSGNR>
+     <TEXT>【自動リカバリー対象】アドオンテーブルの更新に失敗しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>702</MSGNR>
+     <TEXT>アドオンテーブル登録(振替情報) 処理対象件数 &amp;1件、成功件数 &amp;2件、失敗件数 &amp;3件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>703</MSGNR>
+     <TEXT>アドオンテーブル更新(振替取消情報) 処理対象件数 &amp;1件、成功件数 &amp;2件、失敗件数 &amp;3件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>704</MSGNR>
+     <TEXT>【自動リカバリー】アドオンテーブル未更新の振替取消済情報を検知しました。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>705</MSGNR>
+     <TEXT>アドオンテーブルの更新を行います。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>706</MSGNR>
+     <TEXT>現会計期間・前会計期間のデータが削除対象に含まれています。対象の削除をスキップします。</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>707</MSGNR>
+     <TEXT>削除対象件数：&amp;1件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>708</MSGNR>
+     <TEXT>削除に成功しました。&amp;1件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>709</MSGNR>
+     <TEXT>削除に失敗しました。&amp;1件</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>710</MSGNR>
+     <TEXT>入荷伝票登録スケジュール &amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>711</MSGNR>
+     <TEXT>削除対象のレコードがありません</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>712</MSGNR>
+     <TEXT>品目マスタに存在しません。品目テキスト（JA）：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>713</MSGNR>
+     <TEXT>BPマスタに存在しません。BPコード：&amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>714</MSGNR>
+     <TEXT>価格条件タイプがPMP0（マニュアル総額）でないため、更新できません。　&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZRAP_COM_99</ARBGB>
+     <MSGNR>715</MSGNR>
+     <TEXT>価格条件タイプがPPR0（デフォルト総額）でないため、更新できません。　&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

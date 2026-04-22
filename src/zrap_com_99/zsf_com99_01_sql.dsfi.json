@@ -1,0 +1,14 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Convert alpha -in",
+    "originalLanguage": "ja",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "scalarFunctionName": "ZSF_COM99_01",
+  "engine": "sqlEngine",
+  "sqlProperties": {
+    "amdpReference": "zcl_zsf_com99_01_sql=>ALPHA_IN",
+    "autoExposedInSqlServices": false
+  }
+}
